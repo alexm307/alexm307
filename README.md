@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm Alex!
+
+Junior Software Engineer aiming to improve my skills while working on some great projects </br>
+Studied [Computer Science](https://ac.utcluj.ro/acasa.html) at the Technical University of Cluj-Napoca </br>
+Currently learning about Django and web development!</br>
 
 <!--
 **alexm307/alexm307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
