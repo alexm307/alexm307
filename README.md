@@ -1,9 +1,11 @@
-## Hi I'm Alex!
+### Hi I'm Alex!
 
 Junior Software Engineer aiming to improve my skills while working on some great projects </br>
 Studied [Computer Science](https://ac.utcluj.ro/acasa.html) at the Technical University of Cluj-Napoca </br>
-Currently learning about Django and web development!</br>
+Currently learning about Django and web development with Python!</br>
 
+
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexm307&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazr/github-readme-stats)
 <!--
 **alexm307/alexm307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
