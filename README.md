@@ -10,12 +10,13 @@ Currently learning about Django and web development with Python!</br>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alexm307&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexm307&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexm307&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **alexm307/alexm307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=alexm307&theme=tokyonight&hide_border=false)<br/>
 
 Here are some ideas to get you started:
 
