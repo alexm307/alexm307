@@ -2,7 +2,7 @@
 
 👨‍💻Junior Software Engineer aiming to improve my skills while working on some great projects </br>
 💻Studied [Computer Science](https://ac.utcluj.ro/acasa.html) at the Technical University of Cluj-Napoca </br>
-🌱Currently learning about Django and web development with Python!</br>
+🌱Currently learning about AI and web development with Python!</br>
 
 
 ### 💻 Tech Stack:
